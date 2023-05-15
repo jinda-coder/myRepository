@@ -1,2 +1,3 @@
 第一天 hello world
 第二天 hello world
+第三天 方法声明
